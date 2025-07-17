@@ -1,0 +1,13 @@
+* {
+     font-family: "Raleway", sans-serif;
+}
+
+nav {
+     z-index: 3;
+     width: 300px;
+}
+
+#mySidebar img {
+     width: 80%;
+     height: auto;
+}
