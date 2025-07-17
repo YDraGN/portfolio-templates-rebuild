@@ -2,7 +2,7 @@
      font-family: "Raleway", sans-serif;
 }
 
-nav {
+#mySidebar nav {
      z-index: 3;
      width: 300px;
 }
@@ -11,3 +11,15 @@ nav {
      width: 80%;
      height: auto;
 }
+
+.w3-main {
+     margin-left: 220px;
+}
+
+/*cắt ảnh hình vuông*/
+#portfolio img {
+     width: 65px;
+     height: 65px;
+     object-fit: cover;
+}
+
